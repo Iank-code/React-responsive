@@ -1,0 +1,8 @@
+@media screen and (max-width: 412px){
+    h1{
+        display: flex;
+        justify-content: center;
+        /* align-items: center;
+        height: 100vh; */
+    }
+}
